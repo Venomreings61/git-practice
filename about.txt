@@ -1,0 +1,5 @@
+# About
+This project is by Santo
+Learning Git on Day 16
+Tech stack: .NET, Linux, Git, Docker, AWS
+Goal: Cloud backend developer
