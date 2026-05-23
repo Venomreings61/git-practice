@@ -8,3 +8,11 @@ Learning Git and GitHub - Day 17!
 - Server Health Monitor (Bash)
 - Linux Automation Scripts
 - .NET Authentication API
+
+## Skills
+- Linux System Administration
+- Bash Scripting & Automation
+- Git & GitHub
+- Docker (learning)
+- AWS (learning)
+- .NET Backend Development
